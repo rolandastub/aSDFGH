@@ -308,3 +308,4 @@ for y in range(0,10):
 
 # git config --global user.email "gantel@gmail.com"
 # git config  --global user.name "rolandastub"
+ print( "labas")
